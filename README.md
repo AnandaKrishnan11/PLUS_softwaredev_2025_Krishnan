@@ -12,4 +12,7 @@ And the second one:
 conda env create -f D:\pythonProject\geo-software-dev\A2\software_dev_v2.yml
 ![2](https://github.com/user-attachments/assets/bd73885b-40e3-4301-a886-ce93413ca631)
 
+\t
+The new environments are visible in my navigator  
+
 
