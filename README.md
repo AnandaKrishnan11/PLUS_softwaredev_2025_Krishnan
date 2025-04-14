@@ -1,7 +1,7 @@
 # PLUS_softwaredev_2025_Krishnan
 Assignment #2 create conda env
 
-First i cloned this repository onto my local machine
+First i cloned this repository onto my local machine: 
 git clone https://github.com/augustinh22/geo-software-dev.git
 
 Then i created the first environment: 
